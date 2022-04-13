@@ -1,4 +1,4 @@
-#Wed Apr 13 19:39:24 IST 2022
+#Wed Apr 13 19:50:58 IST 2022
 base.0=D\:\\Random shit\\FYRE_OLD\\android\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

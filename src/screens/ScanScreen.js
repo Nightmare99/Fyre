@@ -38,6 +38,8 @@ export default class ScanScreen extends Component {
           onRead={this.onSuccess}
           ref={(node) => { this.scanner = node }}
           showMarker={true}
+          reactivate={true}
+          reactivateTimeout={1000}
         />
       </NativeBaseProvider>
     );

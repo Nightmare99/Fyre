@@ -1,0 +1,9 @@
+com/fyre/MainApplication.java
+ com.fyre.MainApplication
+ com.fyre.MainApplication$1
+com/fyre/MainActivity.java
+ com.fyre.MainActivity
+com/fyre/BuildConfig.java
+ com.fyre.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
